@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:73c0ac7b701b33eb348370e135065d59ef9a8a340607d8eabdd369441ab17eed
-size 296
+# Dados do Aluno
+- Olá!
+- **Nome:Gonçalo Vargas**  
+- **Número:22605800**  
+- **Turma:TD01AMVI01**  
+
+---
+
+## Alterações realizadas
+
+Adicionado as minhas informações pessoais ao README_modelo.md
+
+---
+
+## Observações (opcional)
+
+
+Eu até estou a gostar de usar o git, mas como todos acho certas partes difíceis, especialmente saber a diferença entre todos os comandos e como e quando usar-los
